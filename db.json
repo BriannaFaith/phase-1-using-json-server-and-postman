@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The river and the source",
+      "content": "This is a higschool setbook."
+    },
+    {
+      "id": 2,
+      "title": "Kigogo",
+      "content": "This is also a setbook but a Kiswahili book."
+    },
+    {
+      "id": 3,
+      "title": "Kiriku the child",
+      "content": "This is a kids story with a movie."
+    }
+  ]
+}
